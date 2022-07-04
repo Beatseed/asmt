@@ -1,0 +1,2 @@
+http://ec2-3-70-19-16.eu-central-1.compute.amazonaws.com:8000/provider/flights1
+http://ec2-3-70-19-16.eu-central-1.compute.amazonaws.com:8000/provider/flights2
